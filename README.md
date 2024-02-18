@@ -1,7 +1,7 @@
 Build a Stunning Portfolio with React JS using Styled-Components.
 This repository contains starter code for Portfolio Website in ReactJS.
 View Demo👇:
-https://uditportfolio.netlify.app/
+https://uditkportfolio.netlify.app/
 
 
 
