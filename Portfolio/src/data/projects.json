@@ -1,0 +1,36 @@
+[
+  {
+    "title": "HopeFund",
+    "imageSrc": "projects/project.png",
+    "description": "a user-friendly fundraiser platform  ensuring a seamless and responsive user experience",
+    "skills": ["Next.js", "Tailwind", "Nodejs"],
+    "demo": "https://hopefund.vercel.app/",
+    "source": "https://github.com/UDITKIRAR/hopefund-fund-raising-platform"
+  },
+  {
+    "title": "Employee-Managements",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a user-friendly interface to perform CRUD operation on employee details.",
+    "skills": ["React", "Express", "RestAPI","MongoDB"],
+    "demo": "https://employe-managing.netlify.app/",
+    "source": "https://github.com/UDITKIRAR/Employee-Managements"
+  },
+  {
+    "title": "Emart",
+    "imageSrc": "projects/project.png",
+    "description": "an eCommerce website designed to provide a seamless shopping experience for users",
+    "skills": ["React", "Boostrap", "Javascript","Figma"],
+    "demo": "https://emartwebs.netlify.app/",
+    "source": "https://github.com/UDITKIRAR/Emart"
+  },
+  
+
+  {
+    "title": "Blogging Unite",
+    "imageSrc": "projects/project.png",
+    "description": "a dynamic blogging application designed to  Seamlessly write and share your thoughts",
+    "skills": ["Nodejs", "Boostrap", "MongoDB"],
+    "demo": "https://bloggers-unite.onrender.com/",
+    "source": "https://github.com/UDITKIRAR/BLOGGING-APP"
+  }
+]
