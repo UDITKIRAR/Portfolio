@@ -32,5 +32,22 @@
     "skills": ["Nodejs", "Boostrap", "MongoDB"],
     "demo": "https://bloggers-unite.onrender.com/",
     "source": "https://github.com/UDITKIRAR/BLOGGING-APP"
+  },
+  {
+    "title": "Tail of canva-1",
+    "imageSrc": "projects/project.png",
+    "description": "a stunning  website using canvas and gsap ",
+    "skills": ["Reactjs", "GSAP", "Figma"],
+    "demo": "https://motion-art-for-elementor-wordpress.netlify.app/",
+    "source": "https://github.com/UDITKIRAR/"
+  }
+  ,
+  {
+    "title": "Tail of canva-2",
+    "imageSrc": "projects/project.png",
+    "description": "a stunning  website using canvas and gsap library with plugins integration ",
+    "skills": ["Reactjs", "GSAP", "Figma"],
+    "demo": "https://visual-effects-animation-kit-for-elementor.vercel.app/",
+    "source": "https://github.com/UDITKIRAR/"
   }
 ]
