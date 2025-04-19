@@ -1,11 +1,30 @@
 [
   {
+    "role": "Software Engineer",
+    "organisation": "Unthinkable Solutions",
+    "startDate": "Jan, 2025",
+    "endDate": "Ongoing",
+    "experiences": [
+      "Built microservices with ASP.NET Core 8 and Node.js for a recommendation system.",
+      "Created a JWT-secured API gateway with RBAC and gRPC integration.",
+      "Deployed on AWS ECS using Docker, with S3, DynamoDB, and SQL for data handling."
+    ],
+    "imageSrc": "history/unthinkable_software_logo.jpg",
+    "Link":"https://drive.google.com/file/d/18T3QqjkPuK5GL7zCs4e94Vs-jN_R3w0x/view?usp=sharing"
+  }
+   ,
+  {
     "role": "Backend Engineer",
     "organisation": "Lyft",
     "startDate": "Sept, 2023",
     "endDate": "Jan, 2024",
-    "experiences": [" Implemented Unit Tests ", "Added functionality using test-driven development", "Refactored a messy codebase inherited from team & accurately reflect my new design."],
-    "imageSrc": "history/Lyft.ico",
+    "experiences": [
+      "Implemented unit tests.",
+      "Added functionality using test-driven development.",
+      "Refactored a messy codebase inherited from the team & accurately reflected my new design."
+    ],
+    "imageSrc": "history/Lyft.svg",
     "Link":"https://drive.google.com/file/d/18T3QqjkPuK5GL7zCs4e94Vs-jN_R3w0x/view?usp=sharing"
   }
+ 
 ]
